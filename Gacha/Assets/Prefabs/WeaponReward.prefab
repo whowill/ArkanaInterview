@@ -36,8 +36,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 628, y: -80.005}
-  m_SizeDelta: {x: 265.43, y: 160.01}
+  m_AnchoredPosition: {x: 606, y: -80.01}
+  m_SizeDelta: {x: 280.8619, y: 160.01}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &8726413736255044491
 MonoBehaviour:
@@ -103,7 +103,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 136.81, y: 160.01}
+  m_SizeDelta: {x: 169.94, y: 160.01}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &8726413736256452612
 MonoBehaviour:
@@ -166,7 +166,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 343.91998, y: -80.01}
+  m_AnchoredPosition: {x: 322, y: -80.01}
   m_SizeDelta: {x: 302.73, y: 45.93}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &8726413736292453462
@@ -304,7 +304,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 136.81, y: 160.01}
+  m_SizeDelta: {x: 139.09, y: 160.01}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &8726413736533089079
 MonoBehaviour:
@@ -560,7 +560,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 136.81, y: 35.04}
+  m_SizeDelta: {x: 119.68, y: 33.9}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &8726413736867515193
 CanvasRenderer:
@@ -828,8 +828,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 32
-  m_fontSizeBase: 32
+  m_fontSize: 30
+  m_fontSizeBase: 30
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -1098,8 +1098,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 32
-  m_fontSizeBase: 32
+  m_fontSize: 26
+  m_fontSizeBase: 26
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -1233,8 +1233,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 32
-  m_fontSizeBase: 32
+  m_fontSize: 30
+  m_fontSizeBase: 30
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18

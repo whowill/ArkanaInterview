@@ -72,6 +72,17 @@ public class UIMain : MonoBehaviour
 
     public void showGacha(int index)
     {
+        if(manager.gachaPulled[index].rarity == "SuperRare")
+        {
+            backGround.color = new Color32(162, 0, 109, 255);
+        }else if(manager.gachaPulled[index].rarity == "Rare")
+        {
+            backGround.color = new Color32(247,127,190, 255);
+        }
+        else
+        {
+            backGround.color = new Color32(174, 152, 170, 255);
+        }
         GachaImage.sprite = manager.gachaPulled[index].Image;
         rarityText.text = manager.gachaPulled[index].rarity;
     }

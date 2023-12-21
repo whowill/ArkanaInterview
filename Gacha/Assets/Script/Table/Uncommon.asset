@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a174c9929b7424e46b62233cd70e820c, type: 3}
+  m_Name: Uncommon
+  m_EditorClassIdentifier: 
+  tableRarity: Uncommon
+  tableWeight: 30
+  weaponWeight: 70
+  characterWeight: 30
+  gachaPool:
+  - {fileID: 11400000, guid: d21cd40802f085b4188989562cae5fc5, type: 2}
+  - {fileID: 11400000, guid: c5f9aef0cf0e6df46b50b469f70cb33d, type: 2}
+  - {fileID: 11400000, guid: 4f90265a82e100d409344fbcd5d8fc51, type: 2}
+  - {fileID: 11400000, guid: dd3dbe5ec694c5447b8cd50a6c423ed7, type: 2}
+  - {fileID: 11400000, guid: 1815925dfff696647a6748d306073cd4, type: 2}
+  - {fileID: 11400000, guid: ef408e11aa10e4941aaa2eb66052d58d, type: 2}
+  - {fileID: 11400000, guid: 6e68638ef4a1e784e8a2ee8b0577fd64, type: 2}
+  - {fileID: 11400000, guid: ca1e23490aa0bfc42886164effd05dc8, type: 2}

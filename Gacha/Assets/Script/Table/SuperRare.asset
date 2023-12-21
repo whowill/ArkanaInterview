@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a174c9929b7424e46b62233cd70e820c, type: 3}
+  m_Name: SuperRare
+  m_EditorClassIdentifier: 
+  tableRarity: SuperRare
+  tableWeight: 5
+  weaponWeight: 70
+  characterWeight: 30
+  gachaPool:
+  - {fileID: 11400000, guid: 8cc9c07b3e7e693449d5a24958b57173, type: 2}
+  - {fileID: 11400000, guid: 7b65733921cb8d3409cc3932f22e4ece, type: 2}
+  - {fileID: 11400000, guid: 7dd55608046208248b8178b4c20ff845, type: 2}
+  - {fileID: 11400000, guid: badd5728fe60187429b5930e0e7faf1a, type: 2}
