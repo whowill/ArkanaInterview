@@ -3,16 +3,18 @@ Unity Version = 2021.3.15f1
 Aspect Ratio Unity = 9:16
 
 
-Interview Question:
 Description:
+
 Membuat 2D Simple Gacha Game dengan referensi seperti Wishing pada game Genshin Impact  (https://www.youtube.com/watch?v=Ul2MyGo_018).
  
 Tujuan Test:
+
   · Test ini tidak perlu asset gambar/3D bagus, yang penting adalah implementasi gameplay, code structure, dan approach menyelesaikan problem.
   · Boleh menggunakan framework / plugins di Unity untuk speed up the process dan (jika menggunakan) sertakan daftar plugins ke dalam file Readme.
   · Test dikerjakan selama 1 minggu. Maksimalkan rentang waktu 1 minggu dengan sebaik-baiknya untuk pengerjaan project ini.
  
 Feature Wajib:
+
   · Terdiri dari 5 karakter dan 10 senjata yang bisa di gacha.
   
   · Terdapat menu yang bisa menampilkan hasil gacha dan detail info dari karakter/senjata yang didapat.
@@ -43,6 +45,7 @@ Feature Wajib:
   
 
 Feature Plus:
+
   · Finite State Machine sederhana untuk game state (ready, game run, game end)
   
   · Menggunakan art / animation sederhana
@@ -52,6 +55,7 @@ Feature Plus:
   · Penggunaan Addressable Assets
  
 Deliverables:
+
   · Android .APK
   
   · Mengupload project ke Github/Gitlab
